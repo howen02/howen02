@@ -1,7 +1,6 @@
 <h1 align="center">Hello! I'm Howen</h1>
 <h3 align="center">A passionate developer with an interest in Web3</h3>
 
-- `🏗️` I’m currently working on **Wallet Watcher**, a Discord bot that notifies users of their transactions on the Cardano Blockchain
 - 🌐 Checkout the projects I've worked on at my [personal website](https://howen.vercel.app)!
 - 📄 You can read my resume [here](https://github.com/howen02/portfolio/blob/main/public/Resume_YapHoWen.pdf)
 
@@ -14,6 +13,3 @@
 <a href="https://linkedin.com/in/howenyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="howenyap" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sky02x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="howen" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=howen02&show_icons=true&locale=en&layout=compact&theme=dark" alt="howen02" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=howen02&show_icons=true&locale=en&theme=dark" alt="howen02" /></p>
